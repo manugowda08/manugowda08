@@ -3,7 +3,7 @@
 
 <h3 align="center">Studying to be a software developer..!</h3>
 
-
+<img align="right" width="400" src="2bbf3a52005319.5901123c114f4.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manugowda08&label=Profile%20views&color=0e75b6&style=flat" alt="manugowda08" /> </p>
 

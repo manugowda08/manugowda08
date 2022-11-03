@@ -1,3 +1,4 @@
+![logo](cb-banner.svg)
 <h1 align="center">yeah I'm.. Manu.</h1>
 
 <h3 align="center">Studying to be a software developer..!</h3>

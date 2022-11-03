@@ -1,7 +1,7 @@
 <h1 align="center">yeah I'm.. Manu.</h1>
 
 <h3 align="center">Studying to be a software developer..!</h3>
-<img align="right" alt="coding" width="400"src="https://user-images.githubuser content.com/55389276//40866485-8fb1c876a4d6a-98dc-08c49811eaf70.gif
+<img align="right" alt="coding" width="400"src="https://user-images.githubuser content.com/55389276//40866485-8fb1c876-4d6a-98dc-08c49811eaf70.gif>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manugowda08&label=Profile%20views&color=0e75b6&style=flat" alt="manugowda08" /> </p>
